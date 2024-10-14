@@ -31,4 +31,5 @@ This project is currently in **version 2**, where the focus is on enhancing the 
 ## How to Run
 Currently, the project can be cloned and run locally using any web server. PHP is required for form submissions. As development progresses, instructions for deploying the ASP.NET version will be updated.
 
-![Page 1](link-to-image1.png)
+![Page 1]()
+![Page 1](http://url/to/img.png)
