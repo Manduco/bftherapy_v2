@@ -1,0 +1,217 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
+    <mxGraphModel dx="2949" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7026571954dc6520-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="30" y="70" width="1050" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-3" value="https://bftherapy.org/index.html" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BRIGHT FUTURE&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;THERAPY&lt;/span&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="120" y="140" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-12" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="720" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry y="210" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-17" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="50" y="270" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry y="580" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-22" value="Image" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="750" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-31" value="ABA &amp;amp; Autism" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="40" y="640" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-32" value="External link" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="720" y="640" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-33" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Some default text to fill some space, and&amp;nbsp;&lt;/span&gt;&lt;span&gt;something more so there is more text&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;hr id=&quot;null&quot; style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Some default text to fill some space, and&amp;nbsp;&lt;/span&gt;&lt;span&gt;something more so there is more text&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;hr id=&quot;null&quot; style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Some default text to fill some space, and&amp;nbsp;&lt;/span&gt;&lt;span&gt;something more so there is more text&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr id=&quot;null&quot; style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Some default text to fill some space, and&amp;nbsp;&lt;/span&gt;&lt;span&gt;something more so there is more text&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr id=&quot;null&quot; style=&quot;text-align: left&quot;&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="720" y="670" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-34" value="&lt;span style=&quot;color: rgb(52, 58, 64); font-family: Arial, sans-serif; font-size: 16px; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;© 2023&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="480" y="1020" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-2" value="Logo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="50" y="135" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;About Us&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="780" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contact Us&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="870" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7026571954dc6520-36" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; font-size: 1.5rem; color: rgb(33, 37, 41); font-family: Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Our Approach&lt;/h4&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;&quot;&gt;Our Approach&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Our team provides ABA therapy at home as well as on-site at schools. Develop treatment plans that are tailored to the specific needs and strengths of your child. Our therapists focus on what matters most to your child&#39;s progress, such as developing new skills using fun-play-based methods.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(33, 37, 41); font-family: Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="60" y="407.5" width="590" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="-10" y="990" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-9" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="50" y="680" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-10" value="Resources" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="30" y="860" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-11" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="50" y="900" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="70" y="770" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="70" y="800" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="70" y="830" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;Home Page&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-17" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1180" y="950" width="1050" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-18" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-19" value="https://bftherapy.org/index.html" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BRIGHT FUTURE&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;THERAPY&lt;/span&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="120" y="140" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-21" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="720" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry y="210" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-23" value="About Bright Future Autism Center" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="40" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-24" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="50" y="310" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry y="580" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-26" value="Image" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="750" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-31" value="Logo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="50" y="135" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;About Us&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="780" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contact Us&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="870" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-34" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; font-size: 1.5rem; color: rgb(33, 37, 41); font-family: Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Our Approach&lt;/h4&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;&quot;&gt;Our Approach&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Our team provides ABA therapy at home as well as on-site at schools. Develop treatment plans that are tailored to the specific needs and strengths of your child. Our therapists focus on what matters most to your child&#39;s progress, such as developing new skills using fun-play-based methods.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(33, 37, 41); font-family: Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-17">
+          <mxGeometry x="60" y="407.5" width="590" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;About Us&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="890" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-43" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="50" y="1680" width="1050" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="80" y="240" width="890" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-44" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-45" value="https://bftherapy.org/index.html" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-46" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BRIGHT FUTURE&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;THERAPY&lt;/span&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="120" y="140" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-47" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="720" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-48" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry y="210" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-49" value="Intake Form Testing" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="120" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-50" value="&lt;div&gt;For appointments or inquiries, please call 123-456-789 or email us at admin@bftherapy.org.&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="140" y="300" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-56" value="&lt;span style=&quot;color: rgb(52, 58, 64); font-family: Arial, sans-serif; font-size: 16px; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;© 2023&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="480" y="1020" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-57" value="Logo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="50" y="135" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-58" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;About Us&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="780" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-59" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contact Us&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="870" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-60" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Parent/Guardian First Name:&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="170" y="358.75" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-61" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="-10" y="990" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-71" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 500;&quot;&gt;Email&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="170" y="439" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;input field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="200" y="390" width="335" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-75" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;input field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="200" y="470.25" width="330" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-76" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 500;&quot;&gt;Phone Number&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="170" y="530" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-77" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 500;&quot;&gt;Child&#39;s First Name&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="170" y="610.25" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;input field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="200" y="561.25" width="335" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;input field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="200" y="641.5" width="280" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-80" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 500;&quot;&gt;Child&#39;s Last Name&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="530" y="610.25" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-81" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 500;&quot;&gt;Age&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="170" y="710" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;input field&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="560" y="641.5" width="265" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;pick list&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="250" y="705.63" width="220" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-84" value="&lt;h4 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 500;&quot;&gt;Location&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="170" y="770" width="350" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;pick list&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OVv24ftalesav8v-NhNa-43">
+          <mxGeometry x="250" y="760" width="220" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="OVv24ftalesav8v-NhNa-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;Contact us / Form Page&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1610" width="570" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
