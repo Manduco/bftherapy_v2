@@ -31,5 +31,5 @@ This project is currently in **version 2**, where the focus is on enhancing the 
 ## How to Run
 Currently, the project can be cloned and run locally using any web server. PHP is required for form submissions. As development progresses, instructions for deploying the ASP.NET version will be updated.
 
-![Page 1](https://github.com/Manduco/bftherapy_v2/blob/main/ArmandoPhys%20design%20%26%20UI_UX.drawio%20(1).png)
+![Page 1](Armando_Wireframe.drawio.png)
 
