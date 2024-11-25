@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2t8YnAc2HQ813e1lE3p/kZbgIv6rRuZzURWcqKVMpWApsuQYRKom58/pPH2im/S7nFwnF7xNrHIIeGgat0/iwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arman\\source\\repos\\bftherapy_v2\\bftherapy_v2\\bftherapy_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
